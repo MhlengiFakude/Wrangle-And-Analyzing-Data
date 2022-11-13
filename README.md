@@ -22,4 +22,9 @@ Various operations were done to display data in different dimension, these opera
 
 ### Cleaning
 
-Cleaning is the most interesting stage of the data wrangling process.Here all the issues identified while assesing the data are adressed using different python functions, methods and libraries. I followed the ``Define``,``Code`` and ``Test`` approach for a smooth and readable wrangling.For good and quality analysis, this stage needs to be mastered, and the interesting thing about data cleaning is that we can always iterate and go back to the previous stages until data is in our desired format. 
+Cleaning is the most interesting stage of the data wrangling process.Here all the issues identified while assesing the data are adressed using different python functions, methods and libraries. I followed the ``Define``,``Code`` and ``Test`` approach for a smooth and readable wrangling.For good and quality analysis, this stage needs to be mastered, and the interesting thing about data cleaning is that we can always iterate and go back to the previous stages until data is in our desired format.
+
+### Conclusion
+
+With the help of the Python tools, the desired format of our data was reached.
+identified issues were cleaned, but there is still a room for improvement on our wrangling efforts as some issues were visible but not adressed due to the requirement of the project rubric.
